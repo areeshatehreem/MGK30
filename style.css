@@ -1,0 +1,144 @@
+#table{
+    color: yellow;
+}
+
+
+#table{
+    background-color: rgb(166, 166, 241);
+    color:  #0f0f73;
+    padding: 250px;
+    text-align: center;
+    text-align: top;
+    font-size: 200%;
+    padding-top: 50px;
+    color: green;
+
+ 
+ }
+ #caption:hover{
+     background-color: bisque;
+     color: black;
+ }
+ #caption{
+     background-color: black;
+     color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size: 100%;
+ }
+ #q1{
+     background-color: yellow;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 25px;
+     padding-left: 25px;
+     font-size: 80%;
+ }
+ #q2{
+     background-color: yellow;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 25px;
+     padding-left: 25px;
+     font-size: 80%;
+ }
+ #q3{
+     background-color: yellow;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 25px;
+     padding-left: 25px;
+     font-size: 80%;
+ }
+ #q4{
+     background-color: yellow;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 25px;
+     padding-left: 25px;
+     font-size: 80%;
+ }
+ #q5{
+     background-color: yellow;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 25px;
+     padding-left: 25px;
+     font-size: 80%;
+ }
+ #q6{
+     background-color: yellow;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 25px;
+     padding-left: 25px;
+     font-size: 80%;
+ }
+ #q7{
+     background-color: yellow;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 25px;
+     padding-left: 25px;
+     font-size: 80%;
+ }
+ #q8{
+     background-color: yellow;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 25px;
+     padding-left: 25px;
+     font-size: 80%;
+ }
+ #q9{
+     background-color: yellow;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-right: 25px;
+     padding-left: 25px;
+     font-size: 80%;
+ }
+ #msg01{
+     background-color: black;
+     color: white;
+ }
+ #begin12{
+     color: white;
+     background-color: black;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     padding-left: 5%;
+     padding-right: 5%;
+
+ }
+ #go12{
+    color: white;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#heading{
+    color:  #0f0f73;
+}
+#sd12{
+    
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 44px;
+    font-size: 100%;
+ }
+
+#sd12:hover{
+    background-color: bisque;
+    color: black;
+}
+
+
+
